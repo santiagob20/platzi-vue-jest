@@ -19,7 +19,7 @@ export default {
   name: 'HelloWorld',
   data () {
     return {
-      msg: 'Hello Vue'
+      msg: 'Hola Vue'
     }
   }
 }
